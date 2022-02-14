@@ -1,0 +1,27 @@
+{
+  "name": "raetro-saves",
+  "version": "0.0.1",
+  "description": "A restfull api for cloud savegames",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raetro",
+    "save",
+    "games",
+    "gaming"
+  ],
+  "author": "Andrea Bogazzi <andreabogazzi79@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "eslintConfig": {
+    "extends": "airbnb"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb": "^19.0.4"
+  }
+}
